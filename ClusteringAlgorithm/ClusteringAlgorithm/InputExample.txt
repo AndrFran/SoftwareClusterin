@@ -1,0 +1,35 @@
+main() <main () at ./ProjectUnderTest/Chess/CHESSPR.c:32>:
+    printf()
+    getch()
+    system()
+    display() <void display () at ./ProjectUnderTest/Chess/CHESSPR.c:65>:
+        printf()
+    player2() <void player2 () at ./ProjectUnderTest/Chess/CHESSPR.c:429>:
+        printf()
+        scanf()
+        pawnb() <void pawnb (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:361>:
+            printf()
+            check2() <int check2 (int x, int y) at ./ProjectUnderTest/Chess/CHESSPR.c:483>:
+        rook() <void rook (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:125>:
+            printf()
+        horse() <void horse (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:171>:
+            printf()
+        camel() <void camel (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:200>:
+            printf()
+        king() <void king (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:251>:
+            printf()
+        queen() <void queen (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:271>:
+            printf()
+        change() <void change (int r1, int c1, int r2, int c2) at ./ProjectUnderTest/Chess/CHESSPR.c:86>:
+    player1() <void player1 () at ./ProjectUnderTest/Chess/CHESSPR.c:390>:
+        printf()
+        scanf()
+        pawn() <void pawn (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:96>:
+            printf()
+            check() <int check (int x, int y) at ./ProjectUnderTest/Chess/CHESSPR.c:469>:
+        rook() <void rook (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:125>: [see 13]
+        horse() <void horse (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:171>: [see 15]
+        camel() <void camel (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:200>: [see 17]
+        king() <void king (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:251>: [see 19]
+        queen() <void queen (int r1, int c1) at ./ProjectUnderTest/Chess/CHESSPR.c:271>: [see 21]
+        change() <void change (int r1, int c1, int r2, int c2) at ./ProjectUnderTest/Chess/CHESSPR.c:86>: [see 23]

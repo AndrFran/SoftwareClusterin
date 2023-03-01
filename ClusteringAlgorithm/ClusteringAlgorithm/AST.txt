@@ -1,0 +1,2785 @@
+FileAST: 
+  Typedef: size_t, [], ['typedef']
+    TypeDecl: size_t, [], None
+      IdentifierType: ['int']
+  Typedef: __builtin_va_list, [], ['typedef']
+    TypeDecl: __builtin_va_list, [], None
+      IdentifierType: ['int']
+  Typedef: __gnuc_va_list, [], ['typedef']
+    TypeDecl: __gnuc_va_list, [], None
+      IdentifierType: ['int']
+  Typedef: va_list, [], ['typedef']
+    TypeDecl: va_list, [], None
+      IdentifierType: ['int']
+  Typedef: __int8_t, [], ['typedef']
+    TypeDecl: __int8_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint8_t, [], ['typedef']
+    TypeDecl: __uint8_t, [], None
+      IdentifierType: ['int']
+  Typedef: __int16_t, [], ['typedef']
+    TypeDecl: __int16_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint16_t, [], ['typedef']
+    TypeDecl: __uint16_t, [], None
+      IdentifierType: ['int']
+  Typedef: __int_least16_t, [], ['typedef']
+    TypeDecl: __int_least16_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint_least16_t, [], ['typedef']
+    TypeDecl: __uint_least16_t, [], None
+      IdentifierType: ['int']
+  Typedef: __int32_t, [], ['typedef']
+    TypeDecl: __int32_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint32_t, [], ['typedef']
+    TypeDecl: __uint32_t, [], None
+      IdentifierType: ['int']
+  Typedef: __int64_t, [], ['typedef']
+    TypeDecl: __int64_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint64_t, [], ['typedef']
+    TypeDecl: __uint64_t, [], None
+      IdentifierType: ['int']
+  Typedef: __int_least32_t, [], ['typedef']
+    TypeDecl: __int_least32_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uint_least32_t, [], ['typedef']
+    TypeDecl: __uint_least32_t, [], None
+      IdentifierType: ['int']
+  Typedef: __s8, [], ['typedef']
+    TypeDecl: __s8, [], None
+      IdentifierType: ['int']
+  Typedef: __u8, [], ['typedef']
+    TypeDecl: __u8, [], None
+      IdentifierType: ['int']
+  Typedef: __s16, [], ['typedef']
+    TypeDecl: __s16, [], None
+      IdentifierType: ['int']
+  Typedef: __u16, [], ['typedef']
+    TypeDecl: __u16, [], None
+      IdentifierType: ['int']
+  Typedef: __s32, [], ['typedef']
+    TypeDecl: __s32, [], None
+      IdentifierType: ['int']
+  Typedef: __u32, [], ['typedef']
+    TypeDecl: __u32, [], None
+      IdentifierType: ['int']
+  Typedef: __s64, [], ['typedef']
+    TypeDecl: __s64, [], None
+      IdentifierType: ['int']
+  Typedef: __u64, [], ['typedef']
+    TypeDecl: __u64, [], None
+      IdentifierType: ['int']
+  Typedef: _LOCK_T, [], ['typedef']
+    TypeDecl: _LOCK_T, [], None
+      IdentifierType: ['int']
+  Typedef: _LOCK_RECURSIVE_T, [], ['typedef']
+    TypeDecl: _LOCK_RECURSIVE_T, [], None
+      IdentifierType: ['int']
+  Typedef: _off_t, [], ['typedef']
+    TypeDecl: _off_t, [], None
+      IdentifierType: ['int']
+  Typedef: __dev_t, [], ['typedef']
+    TypeDecl: __dev_t, [], None
+      IdentifierType: ['int']
+  Typedef: __uid_t, [], ['typedef']
+    TypeDecl: __uid_t, [], None
+      IdentifierType: ['int']
+  Typedef: __gid_t, [], ['typedef']
+    TypeDecl: __gid_t, [], None
+      IdentifierType: ['int']
+  Typedef: _off64_t, [], ['typedef']
+    TypeDecl: _off64_t, [], None
+      IdentifierType: ['int']
+  Typedef: _fpos_t, [], ['typedef']
+    TypeDecl: _fpos_t, [], None
+      IdentifierType: ['int']
+  Typedef: _ssize_t, [], ['typedef']
+    TypeDecl: _ssize_t, [], None
+      IdentifierType: ['int']
+  Typedef: wint_t, [], ['typedef']
+    TypeDecl: wint_t, [], None
+      IdentifierType: ['int']
+  Typedef: _mbstate_t, [], ['typedef']
+    TypeDecl: _mbstate_t, [], None
+      IdentifierType: ['int']
+  Typedef: _flock_t, [], ['typedef']
+    TypeDecl: _flock_t, [], None
+      IdentifierType: ['int']
+  Typedef: _iconv_t, [], ['typedef']
+    TypeDecl: _iconv_t, [], None
+      IdentifierType: ['int']
+  Typedef: __ULong, [], ['typedef']
+    TypeDecl: __ULong, [], None
+      IdentifierType: ['int']
+  Typedef: __FILE, [], ['typedef']
+    TypeDecl: __FILE, [], None
+      IdentifierType: ['int']
+  Typedef: ptrdiff_t, [], ['typedef']
+    TypeDecl: ptrdiff_t, [], None
+      IdentifierType: ['int']
+  Typedef: wchar_t, [], ['typedef']
+    TypeDecl: wchar_t, [], None
+      IdentifierType: ['int']
+  Typedef: char16_t, [], ['typedef']
+    TypeDecl: char16_t, [], None
+      IdentifierType: ['int']
+  Typedef: char32_t, [], ['typedef']
+    TypeDecl: char32_t, [], None
+      IdentifierType: ['int']
+  Typedef: __off_t, [], ['typedef']
+    TypeDecl: __off_t, [], None
+      IdentifierType: ['int']
+  Typedef: __pid_t, [], ['typedef']
+    TypeDecl: __pid_t, [], None
+      IdentifierType: ['int']
+  Typedef: __loff_t, [], ['typedef']
+    TypeDecl: __loff_t, [], None
+      IdentifierType: ['int']
+  Typedef: u_char, [], ['typedef']
+    TypeDecl: u_char, [], None
+      IdentifierType: ['int']
+  Typedef: u_short, [], ['typedef']
+    TypeDecl: u_short, [], None
+      IdentifierType: ['int']
+  Typedef: u_int, [], ['typedef']
+    TypeDecl: u_int, [], None
+      IdentifierType: ['int']
+  Typedef: u_long, [], ['typedef']
+    TypeDecl: u_long, [], None
+      IdentifierType: ['int']
+  Typedef: ushort, [], ['typedef']
+    TypeDecl: ushort, [], None
+      IdentifierType: ['int']
+  Typedef: uint, [], ['typedef']
+    TypeDecl: uint, [], None
+      IdentifierType: ['int']
+  Typedef: clock_t, [], ['typedef']
+    TypeDecl: clock_t, [], None
+      IdentifierType: ['int']
+  Typedef: time_t, [], ['typedef']
+    TypeDecl: time_t, [], None
+      IdentifierType: ['int']
+  Typedef: daddr_t, [], ['typedef']
+    TypeDecl: daddr_t, [], None
+      IdentifierType: ['int']
+  Typedef: caddr_t, [], ['typedef']
+    TypeDecl: caddr_t, [], None
+      IdentifierType: ['int']
+  Typedef: ino_t, [], ['typedef']
+    TypeDecl: ino_t, [], None
+      IdentifierType: ['int']
+  Typedef: off_t, [], ['typedef']
+    TypeDecl: off_t, [], None
+      IdentifierType: ['int']
+  Typedef: dev_t, [], ['typedef']
+    TypeDecl: dev_t, [], None
+      IdentifierType: ['int']
+  Typedef: uid_t, [], ['typedef']
+    TypeDecl: uid_t, [], None
+      IdentifierType: ['int']
+  Typedef: gid_t, [], ['typedef']
+    TypeDecl: gid_t, [], None
+      IdentifierType: ['int']
+  Typedef: pid_t, [], ['typedef']
+    TypeDecl: pid_t, [], None
+      IdentifierType: ['int']
+  Typedef: key_t, [], ['typedef']
+    TypeDecl: key_t, [], None
+      IdentifierType: ['int']
+  Typedef: ssize_t, [], ['typedef']
+    TypeDecl: ssize_t, [], None
+      IdentifierType: ['int']
+  Typedef: mode_t, [], ['typedef']
+    TypeDecl: mode_t, [], None
+      IdentifierType: ['int']
+  Typedef: nlink_t, [], ['typedef']
+    TypeDecl: nlink_t, [], None
+      IdentifierType: ['int']
+  Typedef: fd_mask, [], ['typedef']
+    TypeDecl: fd_mask, [], None
+      IdentifierType: ['int']
+  Typedef: _types_fd_set, [], ['typedef']
+    TypeDecl: _types_fd_set, [], None
+      IdentifierType: ['int']
+  Typedef: clockid_t, [], ['typedef']
+    TypeDecl: clockid_t, [], None
+      IdentifierType: ['int']
+  Typedef: timer_t, [], ['typedef']
+    TypeDecl: timer_t, [], None
+      IdentifierType: ['int']
+  Typedef: useconds_t, [], ['typedef']
+    TypeDecl: useconds_t, [], None
+      IdentifierType: ['int']
+  Typedef: suseconds_t, [], ['typedef']
+    TypeDecl: suseconds_t, [], None
+      IdentifierType: ['int']
+  Typedef: FILE, [], ['typedef']
+    TypeDecl: FILE, [], None
+      IdentifierType: ['int']
+  Typedef: fpos_t, [], ['typedef']
+    TypeDecl: fpos_t, [], None
+      IdentifierType: ['int']
+  Typedef: cookie_read_function_t, [], ['typedef']
+    TypeDecl: cookie_read_function_t, [], None
+      IdentifierType: ['int']
+  Typedef: cookie_write_function_t, [], ['typedef']
+    TypeDecl: cookie_write_function_t, [], None
+      IdentifierType: ['int']
+  Typedef: cookie_seek_function_t, [], ['typedef']
+    TypeDecl: cookie_seek_function_t, [], None
+      IdentifierType: ['int']
+  Typedef: cookie_close_function_t, [], ['typedef']
+    TypeDecl: cookie_close_function_t, [], None
+      IdentifierType: ['int']
+  Typedef: cookie_io_functions_t, [], ['typedef']
+    TypeDecl: cookie_io_functions_t, [], None
+      IdentifierType: ['int']
+  Typedef: div_t, [], ['typedef']
+    TypeDecl: div_t, [], None
+      IdentifierType: ['int']
+  Typedef: ldiv_t, [], ['typedef']
+    TypeDecl: ldiv_t, [], None
+      IdentifierType: ['int']
+  Typedef: lldiv_t, [], ['typedef']
+    TypeDecl: lldiv_t, [], None
+      IdentifierType: ['int']
+  Typedef: sigset_t, [], ['typedef']
+    TypeDecl: sigset_t, [], None
+      IdentifierType: ['int']
+  Typedef: __sigset_t, [], ['typedef']
+    TypeDecl: __sigset_t, [], None
+      IdentifierType: ['int']
+  Typedef: _sig_func_ptr, [], ['typedef']
+    TypeDecl: _sig_func_ptr, [], None
+      IdentifierType: ['int']
+  Typedef: sig_atomic_t, [], ['typedef']
+    TypeDecl: sig_atomic_t, [], None
+      IdentifierType: ['int']
+  Typedef: __tzrule_type, [], ['typedef']
+    TypeDecl: __tzrule_type, [], None
+      IdentifierType: ['int']
+  Typedef: __tzinfo_type, [], ['typedef']
+    TypeDecl: __tzinfo_type, [], None
+      IdentifierType: ['int']
+  Typedef: mbstate_t, [], ['typedef']
+    TypeDecl: mbstate_t, [], None
+      IdentifierType: ['int']
+  Typedef: sem_t, [], ['typedef']
+    TypeDecl: sem_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_t, [], ['typedef']
+    TypeDecl: pthread_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_attr_t, [], ['typedef']
+    TypeDecl: pthread_attr_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_mutex_t, [], ['typedef']
+    TypeDecl: pthread_mutex_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_mutexattr_t, [], ['typedef']
+    TypeDecl: pthread_mutexattr_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_cond_t, [], ['typedef']
+    TypeDecl: pthread_cond_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_condattr_t, [], ['typedef']
+    TypeDecl: pthread_condattr_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_key_t, [], ['typedef']
+    TypeDecl: pthread_key_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_once_t, [], ['typedef']
+    TypeDecl: pthread_once_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_rwlock_t, [], ['typedef']
+    TypeDecl: pthread_rwlock_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_rwlockattr_t, [], ['typedef']
+    TypeDecl: pthread_rwlockattr_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_spinlock_t, [], ['typedef']
+    TypeDecl: pthread_spinlock_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_barrier_t, [], ['typedef']
+    TypeDecl: pthread_barrier_t, [], None
+      IdentifierType: ['int']
+  Typedef: pthread_barrierattr_t, [], ['typedef']
+    TypeDecl: pthread_barrierattr_t, [], None
+      IdentifierType: ['int']
+  Typedef: jmp_buf, [], ['typedef']
+    TypeDecl: jmp_buf, [], None
+      IdentifierType: ['int']
+  Typedef: rlim_t, [], ['typedef']
+    TypeDecl: rlim_t, [], None
+      IdentifierType: ['int']
+  Typedef: sa_family_t, [], ['typedef']
+    TypeDecl: sa_family_t, [], None
+      IdentifierType: ['int']
+  Typedef: sigjmp_buf, [], ['typedef']
+    TypeDecl: sigjmp_buf, [], None
+      IdentifierType: ['int']
+  Typedef: stack_t, [], ['typedef']
+    TypeDecl: stack_t, [], None
+      IdentifierType: ['int']
+  Typedef: siginfo_t, [], ['typedef']
+    TypeDecl: siginfo_t, [], None
+      IdentifierType: ['int']
+  Typedef: z_stream, [], ['typedef']
+    TypeDecl: z_stream, [], None
+      IdentifierType: ['int']
+  Typedef: int8_t, [], ['typedef']
+    TypeDecl: int8_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint8_t, [], ['typedef']
+    TypeDecl: uint8_t, [], None
+      IdentifierType: ['int']
+  Typedef: int16_t, [], ['typedef']
+    TypeDecl: int16_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint16_t, [], ['typedef']
+    TypeDecl: uint16_t, [], None
+      IdentifierType: ['int']
+  Typedef: int32_t, [], ['typedef']
+    TypeDecl: int32_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint32_t, [], ['typedef']
+    TypeDecl: uint32_t, [], None
+      IdentifierType: ['int']
+  Typedef: int64_t, [], ['typedef']
+    TypeDecl: int64_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint64_t, [], ['typedef']
+    TypeDecl: uint64_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_least8_t, [], ['typedef']
+    TypeDecl: int_least8_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_least8_t, [], ['typedef']
+    TypeDecl: uint_least8_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_least16_t, [], ['typedef']
+    TypeDecl: int_least16_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_least16_t, [], ['typedef']
+    TypeDecl: uint_least16_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_least32_t, [], ['typedef']
+    TypeDecl: int_least32_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_least32_t, [], ['typedef']
+    TypeDecl: uint_least32_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_least64_t, [], ['typedef']
+    TypeDecl: int_least64_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_least64_t, [], ['typedef']
+    TypeDecl: uint_least64_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_fast8_t, [], ['typedef']
+    TypeDecl: int_fast8_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_fast8_t, [], ['typedef']
+    TypeDecl: uint_fast8_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_fast16_t, [], ['typedef']
+    TypeDecl: int_fast16_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_fast16_t, [], ['typedef']
+    TypeDecl: uint_fast16_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_fast32_t, [], ['typedef']
+    TypeDecl: int_fast32_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_fast32_t, [], ['typedef']
+    TypeDecl: uint_fast32_t, [], None
+      IdentifierType: ['int']
+  Typedef: int_fast64_t, [], ['typedef']
+    TypeDecl: int_fast64_t, [], None
+      IdentifierType: ['int']
+  Typedef: uint_fast64_t, [], ['typedef']
+    TypeDecl: uint_fast64_t, [], None
+      IdentifierType: ['int']
+  Typedef: intptr_t, [], ['typedef']
+    TypeDecl: intptr_t, [], None
+      IdentifierType: ['int']
+  Typedef: uintptr_t, [], ['typedef']
+    TypeDecl: uintptr_t, [], None
+      IdentifierType: ['int']
+  Typedef: intmax_t, [], ['typedef']
+    TypeDecl: intmax_t, [], None
+      IdentifierType: ['int']
+  Typedef: uintmax_t, [], ['typedef']
+    TypeDecl: uintmax_t, [], None
+      IdentifierType: ['int']
+  Typedef: bool, [], ['typedef']
+    TypeDecl: bool, [], None
+      IdentifierType: ['_Bool']
+  Typedef: MirEGLNativeWindowType, [], ['typedef']
+    PtrDecl: []
+      TypeDecl: MirEGLNativeWindowType, [], None
+        IdentifierType: ['void']
+  Typedef: MirEGLNativeDisplayType, [], ['typedef']
+    PtrDecl: []
+      TypeDecl: MirEGLNativeDisplayType, [], None
+        IdentifierType: ['void']
+  Typedef: MirConnection, [], ['typedef']
+    TypeDecl: MirConnection, [], None
+      Struct: MirConnection
+  Typedef: MirSurface, [], ['typedef']
+    TypeDecl: MirSurface, [], None
+      Struct: MirSurface
+  Typedef: MirSurfaceSpec, [], ['typedef']
+    TypeDecl: MirSurfaceSpec, [], None
+      Struct: MirSurfaceSpec
+  Typedef: MirScreencast, [], ['typedef']
+    TypeDecl: MirScreencast, [], None
+      Struct: MirScreencast
+  Typedef: MirPromptSession, [], ['typedef']
+    TypeDecl: MirPromptSession, [], None
+      Struct: MirPromptSession
+  Typedef: MirBufferStream, [], ['typedef']
+    TypeDecl: MirBufferStream, [], None
+      Struct: MirBufferStream
+  Typedef: MirPersistentId, [], ['typedef']
+    TypeDecl: MirPersistentId, [], None
+      Struct: MirPersistentId
+  Typedef: MirBlob, [], ['typedef']
+    TypeDecl: MirBlob, [], None
+      Struct: MirBlob
+  Typedef: MirDisplayConfig, [], ['typedef']
+    TypeDecl: MirDisplayConfig, [], None
+      Struct: MirDisplayConfig
+  Typedef: xcb_connection_t, [], ['typedef']
+    TypeDecl: xcb_connection_t, [], None
+      Struct: xcb_connection_t
+  Typedef: xcb_window_t, [], ['typedef']
+    TypeDecl: xcb_window_t, [], None
+      IdentifierType: ['uint32_t']
+  Typedef: xcb_visualid_t, [], ['typedef']
+    TypeDecl: xcb_visualid_t, [], None
+      IdentifierType: ['uint32_t']
+  Typedef: atomic_bool, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_bool, ['_Atomic'], None
+      IdentifierType: ['_Bool']
+  Typedef: atomic_char, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_char, ['_Atomic'], None
+      IdentifierType: ['char']
+  Typedef: atomic_schar, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_schar, ['_Atomic'], None
+      IdentifierType: ['signed', 'char']
+  Typedef: atomic_uchar, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uchar, ['_Atomic'], None
+      IdentifierType: ['unsigned', 'char']
+  Typedef: atomic_short, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_short, ['_Atomic'], None
+      IdentifierType: ['short']
+  Typedef: atomic_ushort, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_ushort, ['_Atomic'], None
+      IdentifierType: ['unsigned', 'short']
+  Typedef: atomic_int, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int, ['_Atomic'], None
+      IdentifierType: ['int']
+  Typedef: atomic_uint, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint, ['_Atomic'], None
+      IdentifierType: ['unsigned', 'int']
+  Typedef: atomic_long, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_long, ['_Atomic'], None
+      IdentifierType: ['long']
+  Typedef: atomic_ulong, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_ulong, ['_Atomic'], None
+      IdentifierType: ['unsigned', 'long']
+  Typedef: atomic_llong, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_llong, ['_Atomic'], None
+      IdentifierType: ['long', 'long']
+  Typedef: atomic_ullong, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_ullong, ['_Atomic'], None
+      IdentifierType: ['unsigned', 'long', 'long']
+  Typedef: atomic_char16_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_char16_t, ['_Atomic'], None
+      IdentifierType: ['uint_least16_t']
+  Typedef: atomic_char32_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_char32_t, ['_Atomic'], None
+      IdentifierType: ['uint_least32_t']
+  Typedef: atomic_wchar_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_wchar_t, ['_Atomic'], None
+      IdentifierType: ['wchar_t']
+  Typedef: atomic_int_least8_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_least8_t, ['_Atomic'], None
+      IdentifierType: ['int_least8_t']
+  Typedef: atomic_uint_least8_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_least8_t, ['_Atomic'], None
+      IdentifierType: ['uint_least8_t']
+  Typedef: atomic_int_least16_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_least16_t, ['_Atomic'], None
+      IdentifierType: ['int_least16_t']
+  Typedef: atomic_uint_least16_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_least16_t, ['_Atomic'], None
+      IdentifierType: ['uint_least16_t']
+  Typedef: atomic_int_least32_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_least32_t, ['_Atomic'], None
+      IdentifierType: ['int_least32_t']
+  Typedef: atomic_uint_least32_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_least32_t, ['_Atomic'], None
+      IdentifierType: ['uint_least32_t']
+  Typedef: atomic_int_least64_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_least64_t, ['_Atomic'], None
+      IdentifierType: ['int_least64_t']
+  Typedef: atomic_uint_least64_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_least64_t, ['_Atomic'], None
+      IdentifierType: ['uint_least64_t']
+  Typedef: atomic_int_fast8_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_fast8_t, ['_Atomic'], None
+      IdentifierType: ['int_fast8_t']
+  Typedef: atomic_uint_fast8_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_fast8_t, ['_Atomic'], None
+      IdentifierType: ['uint_fast8_t']
+  Typedef: atomic_int_fast16_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_fast16_t, ['_Atomic'], None
+      IdentifierType: ['int_fast16_t']
+  Typedef: atomic_uint_fast16_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_fast16_t, ['_Atomic'], None
+      IdentifierType: ['uint_fast16_t']
+  Typedef: atomic_int_fast32_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_fast32_t, ['_Atomic'], None
+      IdentifierType: ['int_fast32_t']
+  Typedef: atomic_uint_fast32_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_fast32_t, ['_Atomic'], None
+      IdentifierType: ['uint_fast32_t']
+  Typedef: atomic_int_fast64_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_int_fast64_t, ['_Atomic'], None
+      IdentifierType: ['int_fast64_t']
+  Typedef: atomic_uint_fast64_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uint_fast64_t, ['_Atomic'], None
+      IdentifierType: ['uint_fast64_t']
+  Typedef: atomic_intptr_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_intptr_t, ['_Atomic'], None
+      IdentifierType: ['intptr_t']
+  Typedef: atomic_uintptr_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uintptr_t, ['_Atomic'], None
+      IdentifierType: ['uintptr_t']
+  Typedef: atomic_size_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_size_t, ['_Atomic'], None
+      IdentifierType: ['size_t']
+  Typedef: atomic_ptrdiff_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_ptrdiff_t, ['_Atomic'], None
+      IdentifierType: ['ptrdiff_t']
+  Typedef: atomic_intmax_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_intmax_t, ['_Atomic'], None
+      IdentifierType: ['intmax_t']
+  Typedef: atomic_uintmax_t, ['_Atomic'], ['typedef']
+    TypeDecl: atomic_uintmax_t, ['_Atomic'], None
+      IdentifierType: ['uintmax_t']
+  Typedef: atomic_flag, [], ['typedef']
+    TypeDecl: atomic_flag, [], None
+      Struct: atomic_flag
+        Decl: _Value, [], [], [], []
+          TypeDecl: _Value, [], None
+            IdentifierType: ['atomic_bool']
+  Typedef: memory_order, [], ['typedef']
+    TypeDecl: memory_order, [], None
+      Enum: memory_order
+        EnumeratorList: 
+          Enumerator: memory_order_relaxed
+          Enumerator: memory_order_consume
+          Enumerator: memory_order_acquire
+          Enumerator: memory_order_release
+          Enumerator: memory_order_acq_rel
+          Enumerator: memory_order_seq_cst
+  Decl: pwstatus, [], [], [], []
+    ArrayDecl: []
+      TypeDecl: pwstatus, [], None
+        IdentifierType: ['int']
+      Constant: int, 8
+    InitList: 
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+  Decl: pbstatus, [], [], [], []
+    ArrayDecl: []
+      TypeDecl: pbstatus, [], None
+        IdentifierType: ['int']
+      Constant: int, 8
+    InitList: 
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+      Constant: int, 0
+  Decl: board, [], [], [], []
+    ArrayDecl: []
+      ArrayDecl: []
+        TypeDecl: board, [], None
+          IdentifierType: ['char']
+        Constant: int, 8
+      Constant: int, 8
+    InitList: 
+      InitList: 
+        Constant: char, 'R'
+        Constant: char, 'H'
+        Constant: char, 'C'
+        Constant: char, 'K'
+        Constant: char, 'Q'
+        Constant: char, 'C'
+        Constant: char, 'H'
+        Constant: char, 'R'
+      InitList: 
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+        Constant: char, 'P'
+      InitList: 
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+      InitList: 
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+      InitList: 
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+      InitList: 
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+        Constant: char, ' '
+      InitList: 
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+        Constant: char, 'p'
+      InitList: 
+        Constant: char, 'r'
+        Constant: char, 'h'
+        Constant: char, 'c'
+        Constant: char, 'k'
+        Constant: char, 'q'
+        Constant: char, 'c'
+        Constant: char, 'h'
+        Constant: char, 'r'
+  Decl: display, [], [], [], []
+    FuncDecl: 
+      TypeDecl: display, [], None
+        IdentifierType: ['void']
+  Decl: change, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: change, [], None
+        IdentifierType: ['void']
+  Decl: pawn, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: pawn, [], None
+        IdentifierType: ['void']
+  Decl: rook, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: rook, [], None
+        IdentifierType: ['void']
+  Decl: horse, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: horse, [], None
+        IdentifierType: ['void']
+  Decl: camel, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: camel, [], None
+        IdentifierType: ['void']
+  Decl: king, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: king, [], None
+        IdentifierType: ['void']
+  Decl: queen, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: queen, [], None
+        IdentifierType: ['void']
+  Decl: pawnb, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: pawnb, [], None
+        IdentifierType: ['void']
+  Decl: player1, [], [], [], []
+    FuncDecl: 
+      TypeDecl: player1, [], None
+        IdentifierType: ['void']
+  Decl: player2, [], [], [], []
+    FuncDecl: 
+      TypeDecl: player2, [], None
+        IdentifierType: ['void']
+  Decl: check, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: check, [], None
+        IdentifierType: ['int']
+  Decl: check2, [], [], [], []
+    FuncDecl: 
+      ParamList: 
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+        Typename: None, [], None
+          TypeDecl: None, [], None
+            IdentifierType: ['int']
+      TypeDecl: check2, [], None
+        IdentifierType: ['int']
+  FuncDef: 
+    Decl: main, [], [], [], []
+      FuncDecl: 
+        TypeDecl: main, [], None
+          IdentifierType: ['int']
+    Compound: 
+      Decl: x, [], [], [], []
+        TypeDecl: x, [], None
+          IdentifierType: ['int']
+        Constant: int, 0
+      Decl: ch, [], [], [], []
+        TypeDecl: ch, [], None
+          IdentifierType: ['char']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\n\tWELCOME TO CHESS GAME"
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\n\n\t By Shreeji , Neel , Kirtan "
+      FuncCall: 
+        ID: getch
+      FuncCall: 
+        ID: system
+        ExprList: 
+          Constant: string, "cls"
+      DoWhile: 
+        BinaryOp: ==
+          ID: ch
+          Constant: int, 13
+        Compound: 
+          UnaryOp: p++
+            ID: x
+          FuncCall: 
+            ID: system
+            ExprList: 
+              Constant: string, "cls"
+          FuncCall: 
+            ID: display
+          If: 
+            BinaryOp: ==
+              BinaryOp: %
+                ID: x
+                Constant: int, 2
+              Constant: int, 0
+            Compound: 
+              FuncCall: 
+                ID: player2
+            Compound: 
+              FuncCall: 
+                ID: player1
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, " \n\nPress Enter To Continue ! \n\n "
+          Assignment: =
+            ID: ch
+            FuncCall: 
+              ID: getch
+  FuncDef: 
+    Decl: display, [], [], [], []
+      FuncDecl: 
+        TypeDecl: display, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: i, [], [], [], []
+        TypeDecl: i, [], None
+          IdentifierType: ['int']
+      Decl: j, [], [], [], []
+        TypeDecl: j, [], None
+          IdentifierType: ['int']
+      Decl: k, [], [], [], []
+        TypeDecl: k, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, " "
+      For: 
+        Assignment: =
+          ID: i
+          Constant: int, 0
+        BinaryOp: <
+          ID: i
+          Constant: int, 8
+        UnaryOp: p++
+          ID: i
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "    %d"
+            ID: i
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\n"
+      For: 
+        Assignment: =
+          ID: k
+          Constant: int, 0
+        BinaryOp: <
+          ID: k
+          Constant: int, 8
+        UnaryOp: p++
+          ID: k
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "  "
+          For: 
+            Assignment: =
+              ID: i
+              Constant: int, 0
+            BinaryOp: <
+              ID: i
+              Constant: int, 42
+            UnaryOp: p++
+              ID: i
+            Compound: 
+              FuncCall: 
+                ID: printf
+                ExprList: 
+                  Constant: string, "-"
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "\n"
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d "
+              ID: k
+          For: 
+            Assignment: =
+              ID: j
+              Constant: int, 0
+            BinaryOp: <
+              ID: j
+              Constant: int, 8
+            UnaryOp: p++
+              ID: j
+            Compound: 
+              FuncCall: 
+                ID: printf
+                ExprList: 
+                  Constant: string, "|| %c "
+                  ArrayRef: 
+                    ArrayRef: 
+                      ID: board
+                      ID: k
+                    ID: j
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "|| \n"
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "  "
+      For: 
+        Assignment: =
+          ID: i
+          Constant: int, 0
+        BinaryOp: <
+          ID: i
+          Constant: int, 42
+        UnaryOp: p++
+          ID: i
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "-"
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\n"
+  FuncDef: 
+    Decl: change, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+          Decl: r2, [], [], [], []
+            TypeDecl: r2, [], None
+              IdentifierType: ['int']
+          Decl: c2, [], [], [], []
+            TypeDecl: c2, [], None
+              IdentifierType: ['int']
+        TypeDecl: change, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: temp, [], [], [], []
+        TypeDecl: temp, [], None
+          IdentifierType: ['char']
+      Assignment: =
+        ID: temp
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r1
+          ID: c1
+      Assignment: =
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r1
+          ID: c1
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r2
+          ID: c2
+      Assignment: =
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r2
+          ID: c2
+        ID: temp
+  FuncDef: 
+    Decl: pawn, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: pawn, [], None
+          IdentifierType: ['void']
+    Compound: 
+      UnaryOp: p++
+        ArrayRef: 
+          ID: pwstatus
+          ID: c1
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: \n"
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ID: pwstatus
+            ID: c1
+          Constant: int, 1
+        Compound: 
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: +
+                    ID: r1
+                    Constant: int, 1
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 1
+                ID: c1
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: +
+                    ID: r1
+                    Constant: int, 2
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 2
+                ID: c1
+        Compound: 
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: +
+                    ID: r1
+                    Constant: int, 1
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 1
+                ID: c1
+          If: 
+            BinaryOp: ==
+              FuncCall: 
+                ID: check
+                ExprList: 
+                  BinaryOp: +
+                    ID: r1
+                    Constant: int, 1
+                  BinaryOp: +
+                    ID: c1
+                    Constant: int, 1
+              Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d* , "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: +
+                  ID: c1
+                  Constant: int, 1
+          If: 
+            BinaryOp: ==
+              FuncCall: 
+                ID: check
+                ExprList: 
+                  BinaryOp: +
+                    ID: r1
+                    Constant: int, 1
+                  BinaryOp: -
+                    ID: c1
+                    Constant: int, 1
+              Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d* , "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: -
+                  ID: c1
+                  Constant: int, 1
+  FuncDef: 
+    Decl: rook, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: rook, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: i, [], [], [], []
+        TypeDecl: i, [], None
+          IdentifierType: ['int']
+      Decl: j, [], [], [], []
+        TypeDecl: j, [], None
+          IdentifierType: ['int']
+      Decl: n, [], [], [], []
+        TypeDecl: n, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: \n"
+      Assignment: =
+        ID: n
+        ID: c1
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Horizontally: \n"
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              ID: r1
+            BinaryOp: -
+              ID: n
+              Constant: int, 1
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ==
+              ID: n
+              Constant: int, 0
+            Compound: 
+              Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              ID: r1
+              BinaryOp: -
+                ID: n
+                Constant: int, 1
+          UnaryOp: p--
+            ID: n
+      Assignment: =
+        ID: n
+        ID: c1
+      While: 
+        BinaryOp: &&
+          BinaryOp: ==
+            ArrayRef: 
+              ArrayRef: 
+                ID: board
+                ID: r1
+              BinaryOp: +
+                ID: n
+                Constant: int, 1
+            Constant: char, ' '
+          BinaryOp: <=
+            BinaryOp: +
+              ID: n
+              Constant: int, 1
+            Constant: int, 7
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              ID: r1
+              BinaryOp: +
+                ID: n
+                Constant: int, 1
+          UnaryOp: ++
+            ID: n
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\nVertically:\n"
+      Assignment: =
+        ID: n
+        ID: r1
+      While: 
+        BinaryOp: &&
+          BinaryOp: ==
+            ArrayRef: 
+              ArrayRef: 
+                ID: board
+                BinaryOp: -
+                  ID: n
+                  Constant: int, 1
+              ID: c1
+            Constant: char, ' '
+          BinaryOp: >
+            ID: n
+            UnaryOp: -
+              Constant: int, 1
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: n
+                Constant: int, 1
+              ID: c1
+          UnaryOp: --
+            ID: n
+      Assignment: =
+        ID: n
+        ID: r1
+      While: 
+        BinaryOp: &&
+          BinaryOp: ==
+            ArrayRef: 
+              ArrayRef: 
+                ID: board
+                BinaryOp: +
+                  ID: n
+                  Constant: int, 1
+              ID: c1
+            Constant: char, ' '
+          BinaryOp: <=
+            ID: n
+            Constant: int, 7
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: n
+                Constant: int, 1
+              ID: c1
+          UnaryOp: ++
+            ID: n
+  FuncDef: 
+    Decl: horse, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: horse, [], None
+          IdentifierType: ['void']
+    Compound: 
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: "
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 2
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d, "
+            BinaryOp: +
+              ID: r1
+              Constant: int, 2
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 2
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: >
+              BinaryOp: -
+                ID: c1
+                Constant: int, 1
+              UnaryOp: -
+                Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d, "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 2
+                BinaryOp: -
+                  ID: c1
+                  Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 2
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: !=
+              BinaryOp: +
+                ID: c1
+                Constant: int, 2
+              Constant: int, 8
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d, "
+                BinaryOp: +
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: +
+                  ID: c1
+                  Constant: int, 2
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 2
+          Constant: char, ' '
+        Compound: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d, "
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+              BinaryOp: +
+                ID: c1
+                Constant: int, 2
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 2
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: !=
+              BinaryOp: -
+                ID: c1
+                Constant: int, 1
+              UnaryOp: -
+                Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d, "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 2
+                BinaryOp: -
+                  ID: c1
+                  Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 2
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d, "
+            BinaryOp: -
+              ID: r1
+              Constant: int, 2
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 2
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d, "
+            BinaryOp: +
+              ID: r1
+              Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 2
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 2
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: !=
+              BinaryOp: -
+                ID: c1
+                Constant: int, 2
+              UnaryOp: -
+                Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d, "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: -
+                  ID: c1
+                  Constant: int, 2
+  FuncDef: 
+    Decl: camel, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: camel, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: a, [], [], [], []
+        TypeDecl: a, [], None
+          IdentifierType: ['int']
+      Decl: b, [], [], [], []
+        TypeDecl: b, [], None
+          IdentifierType: ['int']
+      Decl: c, [], [], [], []
+        TypeDecl: c, [], None
+          IdentifierType: ['int']
+      Decl: d, [], [], [], []
+        TypeDecl: d, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: \n"
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                ID: a
+            BinaryOp: +
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: r1
+                  ID: a
+                UnaryOp: -
+                  Constant: int, 1
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: c1
+                  ID: b
+                Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: r1
+                ID: a
+              BinaryOp: +
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                ID: a
+            BinaryOp: -
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: r1
+                  ID: a
+                Constant: int, 8
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: c1
+                  ID: b
+                UnaryOp: -
+                  Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: r1
+                ID: a
+              BinaryOp: -
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                ID: a
+            BinaryOp: +
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: r1
+                  ID: a
+                Constant: int, 8
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: c1
+                  ID: b
+                Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: r1
+                ID: a
+              BinaryOp: +
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      Assignment: =
+        ID: a
+        Constant: int, 1
+      Assignment: =
+        ID: b
+        Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                ID: a
+            BinaryOp: -
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: r1
+                  ID: a
+                UnaryOp: -
+                  Constant: int, 1
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: c1
+                  ID: b
+                UnaryOp: -
+                  Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: r1
+                ID: a
+              BinaryOp: -
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+  FuncDef: 
+    Decl: king, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: king, [], None
+          IdentifierType: ['void']
+    Compound: 
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: "
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              ID: r1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            ID: r1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              ID: r1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            ID: r1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 1
+            ID: c1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: +
+              ID: r1
+              Constant: int, 1
+            ID: c1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+            ID: c1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: -
+              ID: r1
+              Constant: int, 1
+            ID: c1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: +
+              ID: r1
+              Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: -
+              ID: r1
+              Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: -
+              ID: r1
+              Constant: int, 1
+            BinaryOp: +
+              ID: c1
+              Constant: int, 1
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+          Constant: char, ' '
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "%d%d , "
+            BinaryOp: +
+              ID: r1
+              Constant: int, 1
+            BinaryOp: -
+              ID: c1
+              Constant: int, 1
+  FuncDef: 
+    Decl: queen, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: queen, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: x, [], [], [], []
+        TypeDecl: x, [], None
+          IdentifierType: ['int']
+        Constant: int, 1
+      Decl: y, [], [], [], []
+        TypeDecl: y, [], None
+          IdentifierType: ['int']
+        Constant: int, 1
+      Decl: a, [], [], [], []
+        TypeDecl: a, [], None
+          IdentifierType: ['int']
+      Decl: b, [], [], [], []
+        TypeDecl: b, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: "
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Horizontal: "
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              ID: r1
+            BinaryOp: -
+              ID: c1
+              ID: y
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ==
+              BinaryOp: -
+                ID: c1
+                ID: y
+              UnaryOp: -
+                Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              ID: r1
+              BinaryOp: -
+                ID: c1
+                ID: y
+          UnaryOp: p++
+            ID: y
+      Assignment: =
+        ID: y
+        Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              ID: r1
+            BinaryOp: +
+              ID: c1
+              ID: y
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ==
+              BinaryOp: +
+                ID: c1
+                ID: y
+              Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              ID: r1
+              BinaryOp: +
+                ID: c1
+                ID: y
+          UnaryOp: p++
+            ID: y
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Vertical: "
+      Assignment: =
+        ID: x
+        Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                ID: x
+            ID: c1
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ==
+              BinaryOp: -
+                ID: r1
+                ID: x
+              UnaryOp: -
+                Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: r1
+                ID: x
+              ID: c1
+          UnaryOp: p++
+            ID: x
+      Assignment: =
+        ID: x
+        Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                ID: x
+            ID: c1
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ==
+              BinaryOp: +
+                ID: r1
+                ID: x
+              Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: r1
+                ID: x
+              ID: c1
+          UnaryOp: p++
+            ID: x
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Diagonally: "
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                ID: a
+            BinaryOp: +
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: r1
+                  ID: a
+                UnaryOp: -
+                  Constant: int, 1
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: c1
+                  ID: b
+                Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: r1
+                ID: a
+              BinaryOp: +
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                ID: a
+            BinaryOp: -
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: r1
+                  ID: a
+                Constant: int, 8
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: c1
+                  ID: b
+                UnaryOp: -
+                  Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: r1
+                ID: a
+              BinaryOp: -
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      ExprList: 
+        Assignment: =
+          ID: a
+          Constant: int, 1
+        Assignment: =
+          ID: b
+          Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: +
+                ID: r1
+                ID: a
+            BinaryOp: +
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: r1
+                  ID: a
+                Constant: int, 8
+              BinaryOp: ==
+                BinaryOp: +
+                  ID: c1
+                  ID: b
+                Constant: int, 8
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: +
+                ID: r1
+                ID: a
+              BinaryOp: +
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+      Assignment: =
+        ID: a
+        Constant: int, 1
+      Assignment: =
+        ID: b
+        Constant: int, 1
+      While: 
+        BinaryOp: ==
+          ArrayRef: 
+            ArrayRef: 
+              ID: board
+              BinaryOp: -
+                ID: r1
+                ID: a
+            BinaryOp: -
+              ID: c1
+              ID: b
+          Constant: char, ' '
+        Compound: 
+          If: 
+            BinaryOp: ||
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: r1
+                  ID: a
+                UnaryOp: -
+                  Constant: int, 1
+              BinaryOp: ==
+                BinaryOp: -
+                  ID: c1
+                  ID: b
+                UnaryOp: -
+                  Constant: int, 1
+            Break: 
+          FuncCall: 
+            ID: printf
+            ExprList: 
+              Constant: string, "%d%d , "
+              BinaryOp: -
+                ID: r1
+                ID: a
+              BinaryOp: -
+                ID: c1
+                ID: b
+          UnaryOp: p++
+            ID: a
+          UnaryOp: p++
+            ID: b
+  FuncDef: 
+    Decl: pawnb, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: r1, [], [], [], []
+            TypeDecl: r1, [], None
+              IdentifierType: ['int']
+          Decl: c1, [], [], [], []
+            TypeDecl: c1, [], None
+              IdentifierType: ['int']
+        TypeDecl: pawnb, [], None
+          IdentifierType: ['void']
+    Compound: 
+      UnaryOp: p++
+        ArrayRef: 
+          ID: pbstatus
+          ID: c1
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "Available are: \n"
+      If: 
+        BinaryOp: ==
+          ArrayRef: 
+            ID: pbstatus
+            ID: c1
+          Constant: int, 1
+        Compound: 
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: -
+                    ID: r1
+                    Constant: int, 1
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 1
+                ID: c1
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: -
+                    ID: r1
+                    Constant: int, 2
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 2
+                ID: c1
+        Compound: 
+          If: 
+            BinaryOp: ==
+              ArrayRef: 
+                ArrayRef: 
+                  ID: board
+                  BinaryOp: -
+                    ID: r1
+                    Constant: int, 1
+                ID: c1
+              Constant: char, ' '
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d , "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 1
+                ID: c1
+          If: 
+            BinaryOp: ==
+              FuncCall: 
+                ID: check2
+                ExprList: 
+                  BinaryOp: -
+                    ID: r1
+                    Constant: int, 1
+                  BinaryOp: -
+                    ID: c1
+                    Constant: int, 1
+              Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d* , "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: -
+                  ID: c1
+                  Constant: int, 1
+          If: 
+            BinaryOp: ==
+              FuncCall: 
+                ID: check2
+                ExprList: 
+                  BinaryOp: -
+                    ID: r1
+                    Constant: int, 1
+                  BinaryOp: +
+                    ID: c1
+                    Constant: int, 1
+              Constant: int, 1
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "%d%d* , "
+                BinaryOp: -
+                  ID: r1
+                  Constant: int, 1
+                BinaryOp: +
+                  ID: c1
+                  Constant: int, 1
+  FuncDef: 
+    Decl: player1, [], [], [], []
+      FuncDecl: 
+        TypeDecl: player1, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: p1, [], [], [], []
+        TypeDecl: p1, [], None
+          IdentifierType: ['int']
+      Decl: p2, [], [], [], []
+        TypeDecl: p2, [], None
+          IdentifierType: ['int']
+      Decl: c1, [], [], [], []
+        TypeDecl: c1, [], None
+          IdentifierType: ['int']
+      Decl: r1, [], [], [], []
+        TypeDecl: r1, [], None
+          IdentifierType: ['int']
+      Decl: c2, [], [], [], []
+        TypeDecl: c2, [], None
+          IdentifierType: ['int']
+      Decl: r2, [], [], [], []
+        TypeDecl: r2, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\nPLAYER 1 - Big Case\n"
+      Label: again1
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "\nEnter Position of Element to change ( RC ): "
+      FuncCall: 
+        ID: scanf
+        ExprList: 
+          Constant: string, "%d"
+          UnaryOp: &
+            ID: p1
+      Assignment: =
+        ID: c1
+        BinaryOp: %
+          ID: p1
+          Constant: int, 10
+      Assignment: =
+        ID: r1
+        BinaryOp: /
+          ID: p1
+          Constant: int, 10
+      Switch: 
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r1
+          ID: c1
+        Compound: 
+          Case: 
+            Constant: char, 'P'
+            FuncCall: 
+              ID: pawn
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'R'
+            FuncCall: 
+              ID: rook
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'H'
+            FuncCall: 
+              ID: horse
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'C'
+            FuncCall: 
+              ID: camel
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'K'
+            FuncCall: 
+              ID: king
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'Q'
+            FuncCall: 
+              ID: queen
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Default: 
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "Invalid Position ! "
+            Goto: again1
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\nEnter Position of Place to Send ( RC ): "
+      FuncCall: 
+        ID: scanf
+        ExprList: 
+          Constant: string, "%d"
+          UnaryOp: &
+            ID: p2
+      Assignment: =
+        ID: c2
+        BinaryOp: %
+          ID: p2
+          Constant: int, 10
+      Assignment: =
+        ID: r2
+        BinaryOp: /
+          ID: p2
+          Constant: int, 10
+      FuncCall: 
+        ID: change
+        ExprList: 
+          ID: r1
+          ID: c1
+          ID: r2
+          ID: c2
+  FuncDef: 
+    Decl: player2, [], [], [], []
+      FuncDecl: 
+        TypeDecl: player2, [], None
+          IdentifierType: ['void']
+    Compound: 
+      Decl: p1, [], [], [], []
+        TypeDecl: p1, [], None
+          IdentifierType: ['int']
+      Decl: p2, [], [], [], []
+        TypeDecl: p2, [], None
+          IdentifierType: ['int']
+      Decl: c1, [], [], [], []
+        TypeDecl: c1, [], None
+          IdentifierType: ['int']
+      Decl: r1, [], [], [], []
+        TypeDecl: r1, [], None
+          IdentifierType: ['int']
+      Decl: c2, [], [], [], []
+        TypeDecl: c2, [], None
+          IdentifierType: ['int']
+      Decl: r2, [], [], [], []
+        TypeDecl: r2, [], None
+          IdentifierType: ['int']
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\nPLAYER 2 - Small Case \n"
+      Label: again2
+        FuncCall: 
+          ID: printf
+          ExprList: 
+            Constant: string, "\nEnter Position of Element to change ( RC ): "
+      FuncCall: 
+        ID: scanf
+        ExprList: 
+          Constant: string, "%d"
+          UnaryOp: &
+            ID: p1
+      Assignment: =
+        ID: c1
+        BinaryOp: %
+          ID: p1
+          Constant: int, 10
+      Assignment: =
+        ID: r1
+        BinaryOp: /
+          ID: p1
+          Constant: int, 10
+      Switch: 
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: r1
+          ID: c1
+        Compound: 
+          Case: 
+            Constant: char, 'p'
+            FuncCall: 
+              ID: pawnb
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'r'
+            FuncCall: 
+              ID: rook
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'h'
+            FuncCall: 
+              ID: horse
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'c'
+            FuncCall: 
+              ID: camel
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'k'
+            FuncCall: 
+              ID: king
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Case: 
+            Constant: char, 'q'
+            FuncCall: 
+              ID: queen
+              ExprList: 
+                ID: r1
+                ID: c1
+            Break: 
+          Default: 
+            FuncCall: 
+              ID: printf
+              ExprList: 
+                Constant: string, "Invalid Position ! "
+            Goto: again2
+      FuncCall: 
+        ID: printf
+        ExprList: 
+          Constant: string, "\nEnter Position of Place to Send ( RC ): "
+      FuncCall: 
+        ID: scanf
+        ExprList: 
+          Constant: string, "%d"
+          UnaryOp: &
+            ID: p2
+      Assignment: =
+        ID: c2
+        BinaryOp: %
+          ID: p2
+          Constant: int, 10
+      Assignment: =
+        ID: r2
+        BinaryOp: /
+          ID: p2
+          Constant: int, 10
+      FuncCall: 
+        ID: change
+        ExprList: 
+          ID: r1
+          ID: c1
+          ID: r2
+          ID: c2
+  FuncDef: 
+    Decl: check, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: x, [], [], [], []
+            TypeDecl: x, [], None
+              IdentifierType: ['int']
+          Decl: y, [], [], [], []
+            TypeDecl: y, [], None
+              IdentifierType: ['int']
+        TypeDecl: check, [], None
+          IdentifierType: ['int']
+    Compound: 
+      Switch: 
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: x
+          ID: y
+        Compound: 
+          Case: 
+            Constant: char, 'p'
+          Case: 
+            Constant: char, 'r'
+          Case: 
+            Constant: char, 'h'
+          Case: 
+            Constant: char, 'c'
+          Case: 
+            Constant: char, 'k'
+          Case: 
+            Constant: char, 'q'
+            Return: 
+              Constant: int, 1
+            Break: 
+          Default: 
+            Return: 
+              Constant: int, 0
+  FuncDef: 
+    Decl: check2, [], [], [], []
+      FuncDecl: 
+        ParamList: 
+          Decl: x, [], [], [], []
+            TypeDecl: x, [], None
+              IdentifierType: ['int']
+          Decl: y, [], [], [], []
+            TypeDecl: y, [], None
+              IdentifierType: ['int']
+        TypeDecl: check2, [], None
+          IdentifierType: ['int']
+    Compound: 
+      Switch: 
+        ArrayRef: 
+          ArrayRef: 
+            ID: board
+            ID: x
+          ID: y
+        Compound: 
+          Case: 
+            Constant: char, 'P'
+          Case: 
+            Constant: char, 'R'
+          Case: 
+            Constant: char, 'H'
+          Case: 
+            Constant: char, 'C'
+          Case: 
+            Constant: char, 'K'
+          Case: 
+            Constant: char, 'Q'
+            Return: 
+              Constant: int, 1
+            Break: 
+          Default: 
+            Return: 
+              Constant: int, 0
